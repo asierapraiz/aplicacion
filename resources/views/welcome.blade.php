@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hola amigo
+                    Hola desde prueba
                 </div>
 
                 <div class="links">
