@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hola desde prueba
+                    Rama1
                 </div>
 
                 <div class="links">
