@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hola
+                    Hola amigo
                 </div>
 
                 <div class="links">
